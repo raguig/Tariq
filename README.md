@@ -1,7 +1,7 @@
 # Tariq - AI-Powered Traffic Management System 
 
 ## Project Overview 
-Tariq is an AI-driven, real-time traffic management system designed to reduce congestion and optimize traffic flow in urban areas. By leveraging machine learning, real-time data processing, distributed computing, and Firebase, Tariq predicts traffic patterns, identifies congestion hotspots, and provides actionable insights for traffic management authorities.
+Tariq is an AI-driven, real-time traffic management system designed to reduce congestion and optimize traffic flow in cities. By leveraging machine learning, real-time data processing, distributed computing, and Firebase, Tariq predicts traffic patterns, identifies congestion hotspots, and provides actionable insights for traffic management authorities.
 
 The system uses:
 - **Java Multithreading**: Simulates real-time traffic on multiple roads.
